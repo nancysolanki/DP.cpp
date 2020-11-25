@@ -1,3 +1,3 @@
 # Dyanamic Programming
 
-question on dp for interview prep.
+question on dp for interview preparation.
